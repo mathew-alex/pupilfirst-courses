@@ -1,7 +1,8 @@
 # Notes
-
+```
 - Skipping Profile
 - Skipping WSL 
+```
 
 #### Command Line
 
